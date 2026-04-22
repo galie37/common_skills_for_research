@@ -2,8 +2,6 @@
 
 > *不定期分享一些科研的小思路和小工具~*
 
-![<img width="737" height="735" alt="112016336_p0" src="https://github.com/user-attachments/assets/cf5dabe3-0eab-4930-9e7d-574f2ba984e5" />](image-url)
-
 ---
 
 ## ✨ 导言
